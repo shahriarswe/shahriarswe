@@ -14,13 +14,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying **Software Engineering** at **Daffodil International University**
-- 💻 Interested in **Software Development, Web Development & Competitive Programming**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🚀 Building projects to improve my practical software engineering skills
-- 🌱 Currently learning **Data Structures & Algorithms, Java, JavaScript and Python**
-- 📚 Passionate about learning new technologies and solving challenging problems
-- 📫 Reach me at **kabir.shahriar.swe@gmail.com**
+* 🎓 Currently studying **Software Engineering** at **Daffodil International University**
+* 💻 Interested in **Software Development, Web Development & Competitive Programming**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🚀 Building projects to improve my practical software engineering skills
+* 🌱 Currently learning **Data Structures & Algorithms, Java, JavaScript and Python**
+* 📚 Passionate about learning new technologies and solving challenging problems
+* 📫 Reach me at **[kabir.shahriar.swe@gmail.com](mailto:kabir.shahriar.swe@gmail.com)**
 
 ---
 
@@ -28,80 +28,47 @@
 
 <p align="left">
 
-<!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-width="45" height="45" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
 </a>
 
-<!-- C++ -->
 <a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-width="45" height="45" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </a>
 
-<!-- Java -->
 <a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-width="45" height="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 </a>
 
-<!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </a>
 
-<!-- Node.js -->
 <a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-width="45" height="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
 </a>
 
-<!-- Electron -->
 <a href="https://www.electronjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-width="45" height="45" alt="Electron.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="45" height="45" alt="Electron.js"/>
 </a>
 
-<!-- Python -->
 <a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
 
-<!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 </a>
 
-<!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-width="45" height="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
 </a>
 
-<!-- CSS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-width="45" height="45" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </a>
 
 </p>
-
----
-
-
-
----
-
-
-
-</p>
-
----
-
 
 ---
 
@@ -132,31 +99,15 @@ width="45" height="45" alt="CSS3"/>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
