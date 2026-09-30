@@ -84,49 +84,16 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤝 Alumni Collaboration Platform
-A platform designed to connect university students and alumni for collaboration, communication and networking.
-
-### 🏠 Smart Home System
-An IoT-based smart home project using **ESP32** to control and monitor connected devices.
-
-### 📚 Library Management System
-A software system for managing books, users, borrowing and returning operations.
-
-### 🏡 OnCall Home
-A home-service-related software project designed to connect users with required home services.
-
-### 🛒 E-Commerce Platform
-An e-commerce platform focused on online product browsing, purchasing and management.
-
-### 📷 Photography
-Exploring photography and creative visual content as a personal interest.
 
 ---
 
-## 💡 Areas of Interest
 
-<p align="left">
-
-🔹 Software Engineering  
-🔹 Web Development  
-🔹 Competitive Programming  
-🔹 Data Structures & Algorithms  
-🔹 Artificial Intelligence  
-🔹 Machine Learning  
-🔹 Database Systems  
-🔹 IoT & Smart Systems  
 
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Champion — Islami Bank Talent Hunt 2019**
-- 🥈 **Runner-Up — National Programming Competition, College Stage**
 
 ---
 
